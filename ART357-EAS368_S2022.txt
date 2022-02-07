@@ -28,7 +28,7 @@ https://vrc.princeton.edu/course_images/iiif/66739/manifest	Visual Resources, De
 https://vrc.princeton.edu/course_images/iiif/66741/manifest	Visual Resources, Department Art and Archaeology
 https://emuseum.nich.go.jp/iiifapi/100307000/manifest.json	Tokyo National Museum
 https://data.artmuseum.princeton.edu/iiif/objects/125451	Princeton University Art Museum
-https://data.artmuseum.princeton.edu/iiif/objects/33091 Princeton University Art Museum
+https://data.artmuseum.princeton.edu/iiif/objects/33091	Princeton University Art Museum
 https://data.artmuseum.princeton.edu/iiif/objects/32949 Princeton University Art Museum
 https://data.artmuseum.princeton.edu/iiif/objects/33078 Princeton University Art Museum
 https://data.artmuseum.princeton.edu/iiif/objects/61045 Princeton University Art Museum
