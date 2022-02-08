@@ -1,19 +1,19 @@
-https://vrc.princeton.edu/course_images/iiif/60/manifest	Visual Resources Collection, Art & Archaeology
-https://vrc.princeton.edu/course_images/iiif/63/manifest	Visual Resources Collection, Art & Archaeology
-https://vrc.princeton.edu/course_images/iiif/61/manifest	Visual Resources Collection, Art & Archaeology
-https://data.artmuseum.princeton.edu/iiif/packages/183742	Princeton University Art Museum
-https://vrc.princeton.edu/course_images/iiif/65939/manifest	Visual Resources Collection, Art & Archaeology
-https://vrc.princeton.edu/course_images/iiif/65899/manifest	Visual Resources Collection, Art & Archaeology
-https://vrc.princeton.edu/course_images/iiif/65938/manifest	Visual Resources Collection, Art & Archaeology
-https://vrc.princeton.edu/course_images/iiif/65801/manifest	Visual Resources Collection, Art & Archaeology
-https://vrc.princeton.edu/course_images/iiif/66058/manifest	Visual Resources Collection, Art & Archaeology
-https://vrc.princeton.edu/course_images/iiif/65987/manifest	Visual Resources Collection, Art & Archaeology
-https://vrc.princeton.edu/course_images/iiif/66059/manifest	Visual Resources Collection, Art & Archaeology
-https://vrc.princeton.edu/course_images/iiif/66159/manifest	Visual Resources Collection, Art & Archaeology
-https://vrc.princeton.edu/course_images/iiif/66166/manifest	Visual Resources Collection, Art & Archaeology
-https://vrc.princeton.edu/course_images/iiif/66203/manifest	Visual Resources Collection, Art & Archaeology
-https://vrc.princeton.edu/course_images/iiif/65864/manifest	Visual Resources Collection, Art & Archaeology
-https://vrc.princeton.edu/course_images/iiif/66230/manifest	Visual Resources Collection, Art & Archaeology
-https://vrc.princeton.edu/course_images/iiif/66287/manifest	Visual Resources Collection, Art & Archaeology
-https://vrc.princeton.edu/course_images/iiif/66288/manifest	Visual Resources Collection, Art & Archaeology
-https://vrc.princeton.edu/course_images/iiif/66445/manifest	Visual Resources Collection, Art & Archaeology
+https://vrc.princeton.edu/course_images/iiif/60/manifest|Visual Resources Collection, Art & Archaeology
+https://vrc.princeton.edu/course_images/iiif/63/manifest|Visual Resources Collection, Art & Archaeology
+https://vrc.princeton.edu/course_images/iiif/61/manifest|Visual Resources Collection, Art & Archaeology
+https://data.artmuseum.princeton.edu/iiif/packages/183742|Princeton University Art Museum
+https://vrc.princeton.edu/course_images/iiif/65939/manifest|Visual Resources Collection, Art & Archaeology
+https://vrc.princeton.edu/course_images/iiif/65899/manifest|Visual Resources Collection, Art & Archaeology
+https://vrc.princeton.edu/course_images/iiif/65938/manifest|Visual Resources Collection, Art & Archaeology
+https://vrc.princeton.edu/course_images/iiif/65801/manifest|Visual Resources Collection, Art & Archaeology
+https://vrc.princeton.edu/course_images/iiif/66058/manifest|Visual Resources Collection, Art & Archaeology
+https://vrc.princeton.edu/course_images/iiif/65987/manifest|Visual Resources Collection, Art & Archaeology
+https://vrc.princeton.edu/course_images/iiif/66059/manifest|Visual Resources Collection, Art & Archaeology
+https://vrc.princeton.edu/course_images/iiif/66159/manifest|Visual Resources Collection, Art & Archaeology
+https://vrc.princeton.edu/course_images/iiif/66166/manifest|Visual Resources Collection, Art & Archaeology
+https://vrc.princeton.edu/course_images/iiif/66203/manifest|Visual Resources Collection, Art & Archaeology
+https://vrc.princeton.edu/course_images/iiif/65864/manifest|Visual Resources Collection, Art & Archaeology
+https://vrc.princeton.edu/course_images/iiif/66230/manifest|Visual Resources Collection, Art & Archaeology
+https://vrc.princeton.edu/course_images/iiif/66287/manifest|Visual Resources Collection, Art & Archaeology
+https://vrc.princeton.edu/course_images/iiif/66288/manifest|Visual Resources Collection, Art & Archaeology
+https://vrc.princeton.edu/course_images/iiif/66445/manifest|Visual Resources Collection, Art & Archaeology
