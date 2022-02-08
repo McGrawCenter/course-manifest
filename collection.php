@@ -19,7 +19,7 @@ function renderList($file) {
 	 $lines = file($file);
 
 	 foreach($lines as $key=>$line) {
-	  $parts = explode("	",$line);
+	  $parts = explode("|",$line);
 	  $man = array();
 
 	  $man["@type"] = "sc:Manifest";
