@@ -1,42 +1,42 @@
-https://vrc.princeton.edu/course_images/iiif/66670/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66672/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66698/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66676/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66678/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66680/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66682/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66684/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66686/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66688/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66690/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66692/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66694/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66696/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66712/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66714/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66716/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66718/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66720/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66723/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66726/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66728/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66730/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66732/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66734/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66737/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66739/manifest	Visual Resources, Department Art and Archaeology
-https://vrc.princeton.edu/course_images/iiif/66741/manifest	Visual Resources, Department Art and Archaeology
-https://emuseum.nich.go.jp/iiifapi/100307000/manifest.json	Tokyo National Museum
-https://data.artmuseum.princeton.edu/iiif/objects/125451	Princeton University Art Museum
-https://data.artmuseum.princeton.edu/iiif/objects/33091	Princeton University Art Museum
-https://data.artmuseum.princeton.edu/iiif/objects/32949	Princeton University Art Museum
-https://data.artmuseum.princeton.edu/iiif/objects/33078	Princeton University Art Museum
-https://data.artmuseum.princeton.edu/iiif/objects/61045	Princeton University Art Museum
-https://data.artmuseum.princeton.edu/iiif/objects/94059	Princeton University Art Museum
-https://data.artmuseum.princeton.edu/iiif/objects/86027	Princeton University Art Museum
-https://data.artmuseum.princeton.edu/iiif/objects/94057	Princeton University Art Museum
-https://data.artmuseum.princeton.edu/iiif/objects/94056	Princeton University Art Museum
-https://data.artmuseum.princeton.edu/iiif/objects/94062	Princeton University Art Museum
-https://data.artmuseum.princeton.edu/iiif/objects/94058	Princeton University Art Museum
-https://data.artmuseum.princeton.edu/iiif/objects/86024	Princeton University Art Museum
-https://data.artmuseum.princeton.edu/iiif/objects/86028	Princeton University Art Museum
+https://vrc.princeton.edu/course_images/iiif/66670/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66672/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66698/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66676/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66678/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66680/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66682/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66684/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66686/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66688/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66690/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66692/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66694/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66696/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66712/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66714/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66716/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66718/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66720/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66723/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66726/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66728/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66730/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66732/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66734/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66737/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66739/manifest|Visual Resources, Department Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/66741/manifest|Visual Resources, Department Art and Archaeology
+https://emuseum.nich.go.jp/iiifapi/100307000/manifest.json|Tokyo National Museum
+https://data.artmuseum.princeton.edu/iiif/objects/125451|Princeton University Art Museum
+https://data.artmuseum.princeton.edu/iiif/objects/33091|Princeton University Art Museum
+https://data.artmuseum.princeton.edu/iiif/objects/32949|Princeton University Art Museum
+https://data.artmuseum.princeton.edu/iiif/objects/33078|Princeton University Art Museum
+https://data.artmuseum.princeton.edu/iiif/objects/61045|Princeton University Art Museum
+https://data.artmuseum.princeton.edu/iiif/objects/94059|Princeton University Art Museum
+https://data.artmuseum.princeton.edu/iiif/objects/86027|Princeton University Art Museum
+https://data.artmuseum.princeton.edu/iiif/objects/94057|Princeton University Art Museum
+https://data.artmuseum.princeton.edu/iiif/objects/94056|Princeton University Art Museum
+https://data.artmuseum.princeton.edu/iiif/objects/94062|Princeton University Art Museum
+https://data.artmuseum.princeton.edu/iiif/objects/94058|Princeton University Art Museum
+https://data.artmuseum.princeton.edu/iiif/objects/86024|Princeton University Art Museum
+https://data.artmuseum.princeton.edu/iiif/objects/86028|Princeton University Art Museum
