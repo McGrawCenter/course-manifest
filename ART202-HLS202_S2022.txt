@@ -1,5 +1,5 @@
-https://vrc.princeton.edu/course_images/iiif/66542/manifest|Visual Resources Collection, Art & Archaeology
 https://vrc.princeton.edu/course_images/iiif/66541/manifest|Visual Resources Collection, Art & Archaeology
+https://vrc.princeton.edu/course_images/iiif/66542/manifest|Visual Resources Collection, Art & Archaeology
 https://vrc.princeton.edu/course_images/iiif/66540/manifest|Visual Resources Collection, Art & Archaeology
 https://vrc.princeton.edu/course_images/iiif/66539/manifest|Visual Resources Collection, Art & Archaeology
 https://vrc.princeton.edu/course_images/iiif/66538/manifest|Visual Resources Collection, Art & Archaeology
