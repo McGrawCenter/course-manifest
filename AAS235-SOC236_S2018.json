@@ -1,0 +1,63 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://etcpanel.princeton.edu/IIIF",
+  "@type": "sc:Collection",
+  "label": "AAS235-SOC236_S2018",
+  "manifests": [
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/23657",
+      "@type": "sc:Manifest",
+      "label": "Egyptian, Coptic, Egypt, 5th–7th century, Textile fragment with figures under an arcade. Wool and linen, 19 x 40 cm; 28 x 45 x 1 cm. Anonymous Gift in Memory of Allan Marquand (y1948-27)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/17427",
+      "@type": "sc:Manifest",
+      "label": "Harry Callahan (American, 1912–1999), Aix-en-Provence, France, 1958. Gelatin silver print, 15 x 15.2 cm (image); 25.3 x 20.4 cm (sheet). Bequest of James Edward Davis, Class of 1923 (x1990-265)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/31790",
+      "@type": "sc:Manifest",
+      "label": "William Henry Hilliard (American, 1836–1905), Landscape near Barbizon, France. Oil on canvas, 20.2 × 30.5 cm; 44.4 × 54.6 × 7.9 cm (frame). Gift of Mrs. Willard Hall Porter (y1970-6)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/5621",
+      "@type": "sc:Manifest",
+      "label": "Wilhelm Lehmbruck (German, 1881–1919), Paolo und Francesca. Drypoint, 29.7 x 19.7 cm (plate); 45 x 31.5 cm (sheet). Laura P. Hall Memorial Collection (x1946-281)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/8923",
+      "@type": "sc:Manifest",
+      "label": "Paul Signac (French, 1863–1935), Saint Tropez, France, 1899. Lithograph. Gift of Everett E. Rogerson (x1952-140)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/58884",
+      "@type": "sc:Manifest",
+      "label": "Romare Bearden (American, 1911–1988), Fall of Troy, 1979. Screenprint on Rives BFK cream wove paper, 45.7 x 60.3 cm (image); 55.5 x 74 cm (sheet). Museum purchase, Felton Gibbons Fund, and matching funds provided by the Program in Hellenic Studies with the support of the Stanley J. Seeger Hellenic Fund (2011-10)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/44648",
+      "@type": "sc:Manifest",
+      "label": "John White Alexander (American, 1856–1915), Isabella Guthrie McCosh (1817-1909), 1908–09. Oil on canvas, 125 x 100 cm (sight); 53 1/4 x 43 1/4 in (frame). Princeton University, gift of John White Alexander. (PP232)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/9790",
+      "@type": "sc:Manifest",
+      "label": "Winslow Homer (American, 1836–1910), Eastern Point Light, 1880. Watercolor over graphite, 24.6 x 34.1 cm. Gift of Alastair B. Martin, Class of 1938 (x1957-116)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/45692",
+      "@type": "sc:Manifest",
+      "label": "Edward Ludlow Mooney (American, 1813–1887), Located in Faculty Room, Nassau Hall, Aaron Burr Sr. (1716–1757), President (1748–57). Oil on canvas, 71 x 58 cm; 43 1/2 x 37 in (frame). Princeton University (PP8)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/28330",
+      "@type": "sc:Manifest",
+      "label": "Ammi Phillips (American, 1788–1865), Henrietta Dorr, ca. 1814. Oil on canvas, 56 x 45 cm; 64.7 × 54 × 5 cm (frame). Gift of Edward Duff Balken, Class of 1897 (y1958-66)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/32245",
+      "@type": "sc:Manifest",
+      "label": "John Singer Sargent (American, 1856–1925), Elizabeth Allen Marquand, 1887. Oil on canvas; 169 x 107 cm, 208.3 × 147.6 × 12.7 cm (frame). Gift of Mrs. Eleanor Marquand Delanoy, granddaughter of the sitter (y1977-77)"
+    }
+  ]
+}

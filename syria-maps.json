@@ -1,0 +1,52 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://detektiiif.manducus.net/invalide",
+	"@type": "sc:Collection",
+	"label": "detektIIIF2 Collection",
+	"manifests": [{
+		"@id": "https://purl.stanford.edu/yf256bc4423/iiif/manifest",
+		"@type": "sc:Manifest",
+		"label": "Syria",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/!400,400/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_maps/514c2b50-c8d2-4ff7-8440-e9337e9d48fd/manifest",
+		"@type": "sc:Manifest",
+		"label": "https://figgy.princeton.edu/concern/scanned_maps/514c2b50-c8d2-4ff7-8440-e9337e9d48fd/manifest",
+		"thumbnail": "logo-small-grey.png"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_maps/f81192fb-ec57-4556-a0c5-59ea30b1e04e/manifest",
+		"@type": "sc:Manifest",
+		"label": "https://figgy.princeton.edu/concern/scanned_maps/f81192fb-ec57-4556-a0c5-59ea30b1e04e/manifest",
+		"thumbnail": "logo-small-grey.png"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_maps/5a5b3c95-6ee2-4ad5-9945-d2c75e797338/manifest",
+		"@type": "sc:Manifest",
+		"label": "https://figgy.princeton.edu/concern/scanned_maps/5a5b3c95-6ee2-4ad5-9945-d2c75e797338/manifest",
+		"thumbnail": "logo-small-grey.png"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_maps/fc34190c-cad4-4b0c-b70c-6f1fae88b64f/manifest",
+		"@type": "sc:Manifest",
+		"label": "https://figgy.princeton.edu/concern/scanned_maps/fc34190c-cad4-4b0c-b70c-6f1fae88b64f/manifest",
+		"thumbnail": "logo-small-grey.png"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_maps/59d621ad-a88c-46ee-94b3-79fa4929fed7/manifest",
+		"@type": "sc:Manifest",
+		"label": "https://figgy.princeton.edu/concern/scanned_maps/59d621ad-a88c-46ee-94b3-79fa4929fed7/manifest",
+		"thumbnail": "logo-small-grey.png"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_maps/85a57901-f77f-45e4-9239-a2814ca2725f/manifest",
+		"@type": "sc:Manifest",
+		"label": "https://figgy.princeton.edu/concern/scanned_maps/85a57901-f77f-45e4-9239-a2814ca2725f/manifest",
+		"thumbnail": "logo-small-grey.png"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_maps/0ff8f6bf-9723-4ac3-9f84-30766a9835be/manifest",
+		"@type": "sc:Manifest",
+		"label": "https://figgy.princeton.edu/concern/scanned_maps/0ff8f6bf-9723-4ac3-9f84-30766a9835be/manifest",
+		"thumbnail": "logo-small-grey.png"
+	}, {
+		"@id": "https://etcpanel.princeton.edu/IIIF/samples/sinai_PU0124_manifest.json",
+		"@type": "sc:Manifest",
+		"label": "This is a test",
+		"thumbnail": "logo-small-grey.png"
+	}]
+}

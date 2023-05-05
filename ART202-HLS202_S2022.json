@@ -1,0 +1,228 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://etcpanel.princeton.edu/IIIF",
+  "@type": "sc:Collection",
+  "label": "ART202-HLS202_S2022",
+  "manifests": [
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66542/manifest",
+      "@type": "sc:Manifest",
+      "label": "Lefkandi Heroön"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66541/manifest",
+      "@type": "sc:Manifest",
+      "label": "Lefkandi Centaur (Toumba Cemetery)"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66540/manifest",
+      "@type": "sc:Manifest",
+      "label": "Amphora from the Tomb of the Rich Athenian Lady"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66538/manifest",
+      "@type": "sc:Manifest",
+      "label": "Dipylon Amphora"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66537/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66539/manifest",
+      "@type": "sc:Manifest",
+      "label": "Nestor's Cup"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66534/manifest",
+      "@type": "sc:Manifest",
+      "label": "Artemis dedicated by Nikandre"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66536/manifest",
+      "@type": "sc:Manifest",
+      "label": "Aristonothos Vase"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66535/manifest",
+      "@type": "sc:Manifest",
+      "label": "Polyphemus Vase"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66533/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66521/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66520/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66522/manifest",
+      "@type": "sc:Manifest",
+      "label": "Suicide of Ajax"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66519/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66518/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66749/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66517/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66514/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66516/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66509/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66513/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66776/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66511/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66515/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66512/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66499/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66774/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66498/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66496/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66507/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66505/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66503/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66500/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66497/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66494/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66495/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66493/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66508/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66492/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66491/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66504/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66490/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66489/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66487/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    }
+  ]
+}

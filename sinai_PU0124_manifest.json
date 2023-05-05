@@ -1,0 +1,97 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://153b4325-b315-4499-9b5a-3b2b11240075",
+	"@type": "sc:Manifest",
+	"label": "Icon: Deesis, Apostles, and Feasts. 11th century.",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Michigan-Princeton-Alexandria Expeditions to Mt. Sinai",
+	"sequences": [
+		{
+			"@id": "http://b754ed5d-dbfc-4f71-abec-b949b0408189",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://b04439b3-593c-4dac-8342-ab38e9ee22eb",
+					"@type": "sc:Canvas",
+					"label": "Princeton image number 0124",
+					"height": 3194,
+					"width": 4000,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ddbe1f9c-414a-41e5-8e2d-db69f98e4e1b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://visresiiif.princeton.edu/iiif/2/0124.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://visresiiif.princeton.edu/iiif/2/0124.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 10000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3194,
+								"width": 4000
+							},
+							"on": "http://b04439b3-593c-4dac-8342-ab38e9ee22eb"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}

@@ -1,0 +1,30 @@
+{
+	"@context": "https://iiif.io/api/presentation/2/context.json",
+	"@id": "https://etcpanel.princeton.edu/LTI/mirador2/collection.json",
+	"@type": "sc:Collection",
+	"label": "Lecture Images",
+	"description": "A collection of lecture images",
+	"manifests": [
+
+		{
+			"@type": "sc:Manifest",
+			"@id": "https://vrc.princeton.edu/course_images/iiif/66540/manifest"
+		},
+		{
+			"@type": "sc:Manifest",
+			"@id": "https://vrc.princeton.edu/course_images/iiif/66538/manifest"
+		},
+		{
+			"@type": "sc:Manifest",
+			"@id": "https://vrc.princeton.edu/course_images/iiif/66537/manifest"
+		},
+		{
+			"@type": "sc:Manifest",
+			"@id": "https://vrc.princeton.edu/course_images/iiif/66539/manifest"
+		},
+		{
+			"@type": "sc:Manifest",
+			"@id": "https://data.artmuseum.princeton.edu/iiif/objects/16524"
+		}
+	]
+}

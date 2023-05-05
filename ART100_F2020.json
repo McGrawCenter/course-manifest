@@ -1,0 +1,103 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://etcpanel.princeton.edu/IIIF",
+  "@type": "sc:Collection",
+  "label": "ART 100, Fall 2000",
+  "manifests": [
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/60/manifest",
+      "@type": "sc:Manifest",
+      "label": "ART100 Ancient Egyptian Art"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/63/manifest",
+      "@type": "sc:Manifest",
+      "label": "ART100 Ancient Maya Art"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/61/manifest",
+      "@type": "sc:Manifest",
+      "label": "ART100 The Divine Image in Ancient Greece"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/packages/183742",
+      "@type": "sc:Manifest",
+      "label": "2020_ART100_8-31&5-31"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/65939/manifest",
+      "@type": "sc:Manifest",
+      "label": "ART100 Cosmopolitan Late Antiquity at Dura Europos"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/65899/manifest",
+      "@type": "sc:Manifest",
+      "label": "ART100 Medieval Iberian Art and Identity"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/65938/manifest",
+      "@type": "sc:Manifest",
+      "label": "ART100 Nexus of Buddhist Art and Culture along the Silk Roads: The Dunhuang Caves"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/65801/manifest",
+      "@type": "sc:Manifest",
+      "label": "ART100 The Arts of Mongol Iran: Conquest and Cultural Change"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66058/manifest",
+      "@type": "sc:Manifest",
+      "label": "ART100 Renaissance Art\nMichelangelo, Sculptor:  \nAntiquity, The Body, and The Block"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/65987/manifest",
+      "@type": "sc:Manifest",
+      "label": "ART100 The Basilica: from Rome to the Americas and beyond"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66059/manifest",
+      "@type": "sc:Manifest",
+      "label": "ART100 17c Dutch Art"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66159/manifest",
+      "@type": "sc:Manifest",
+      "label": "ART100 The Painting of Modern Life in 19th-Century France: Manet & Monet"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66166/manifest",
+      "@type": "sc:Manifest",
+      "label": "ART100 American Art"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66203/manifest",
+      "@type": "sc:Manifest",
+      "label": "ART100 Refined and Common Japanese Pictures"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/65864/manifest",
+      "@type": "sc:Manifest",
+      "label": "ART 100: Eye/I Witness: Figuring the Present in Nineteenth-Century Visual Culture"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66230/manifest",
+      "@type": "sc:Manifest",
+      "label": "ART100 The Avant-Garde in the Early 20th Century — Art and/or Anti-Art"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66287/manifest",
+      "@type": "sc:Manifest",
+      "label": "ART100 Modern & Contemporary Art \nTradition & Innovation"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66288/manifest",
+      "@type": "sc:Manifest",
+      "label": "ART100 Modernism and Tradition in Africa"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66445/manifest",
+      "@type": "sc:Manifest",
+      "label": "ART100 Precept Images"
+    }
+  ]
+}

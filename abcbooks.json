@@ -1,0 +1,627 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://etcpanel.princeton.edu/IIIF/samples/abcbooks.json",
+	"@type": "sc:Collection",
+	"label": "ABC Books Collection",
+	"manifests": [{
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/1026c570-71b8-423d-ad3c-ac7a3da43730/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Idalia's project ABC = Proyecto ABC : an urban alphabet book in English and Spanish",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/2b878baa-90e7-42f5-90ef-86ef4d43da19/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Ashanti to Zulu : African traditions",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/3a6cb3bb-9324-4287-b691-fee2a66a45b2/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "The Black BC's",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/cb73637f-bade-4e7d-97cd-0274de2a5ddb/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "My abc reading book",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/9ac14678-f872-4d63-b253-8a95b1973bba/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "ABC / Norbertine v. Bresslern-Roth",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/4bf715b1-3162-481b-8169-5c02d59c2d77/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "The Northwest Coast Indians ABC book",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/d25c2250-f1a9-4eb0-8b31-2ba5676d72e4/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "The toothland ABC",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/1fa68912-96d8-45c0-aba0-2813138e21e6/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Australian alphabet",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/40e3ec9d-b0d2-4b4b-8650-7d3071283a9e/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Fuku-chan ABC (Fuku-chan's ABC)",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/b819fd03-208a-420a-b08f-5c678499b104/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "ABC na Gaedilge",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/6953f952-7bc7-46e4-9579-bab6301f92bd/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Gadens A.B.C.",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/b0501e90-f653-4891-8f8a-70a6d0159793/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Moje abeceda",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/6a9093b0-a54a-43a7-aa42-112e6a2d38d6/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Nangsu Koh Kai Son Hai Chun Rak Chat",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/92dd5154-0345-4393-9ccc-0e6671d25863/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Many nations: an alphabet of Native America",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/81b5e234-5e62-40ec-85ee-d6b75df6adad/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "A is for Africa",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/6a0ca5fa-47ec-4355-bdbe-db3ee2d2560a/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "L'alfabeto di mago Abicì",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/4c2c6077-b69a-4baf-b80a-e3ceb1c32c1a/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "ABG",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/de5d0577-a210-4e0b-8992-a1a945fdb8a3/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Fotografisch abc boek",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/208cfe9b-35e5-4171-b82d-2cdb33db2d36/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Sleepy ABC",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/f4bc3181-540f-47a8-8b40-5f59340a4e86/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Handsigns: a sign language alphabet",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/9cf75a46-e259-4ebb-8f8e-026aa9b9e3b5/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "ABC's of great Negroes",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/614fb87c-e9ff-4058-a1c9-d89b0c6f2177/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Alphabet of Fairy Tales",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/898ac18b-f8d7-4dc6-9d0b-1461f6e2ebd3/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Raggedy Ann's alphabet book",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/af1d1eab-c79f-4144-9617-29bff25828fa/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "A B See",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/c705a341-b125-4869-906e-55ea18172c85/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Aiding and abetting : an alphabet for AIDS",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/81a769ef-51d6-4f24-a53a-a484f5ec487d/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Co okręt wiezie",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/9bf64632-9300-4052-b104-3036e2b45fc3/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "ABC de Cendrillon",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/e1b0aa3f-35cb-421a-95b9-0fe3aea20ef2/manifest",
+		"@type": "sc:Manifest",
+		"label": "Azbuka krasnoarmeitsa (The ABC of the Red Army)",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/895bfb23-fa98-4806-a321-68c3ab3cb3e0/manifest",
+		"@type": "sc:Manifest",
+		"label": "Azbuka (Alphabet)",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/ba703e89-bcc4-4e72-bb1d-74040e1e24f5/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "D is for Doufu : an alphabet book of Chinese culture",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/dda6f46d-3047-4ea9-8dfa-b81d1a23fb2f/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Gathering the sun : an A B C in Spanish and English",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/89c44ba3-fc97-4db4-81e2-262d65f12285/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Harold's ABC",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/72aeecdf-d646-42dd-9100-d573c9fb1f01/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Wild animal crackers",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/5223272a-83b7-4e3c-8955-acd9ac182791/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Jambo means hello : Swahili alphabet book",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/ab0aedcc-aa51-40df-bf64-8fa5f8dd060a/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "A to Zen : a book of Japanese culture",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/f971b47d-fa3a-4369-b52b-92b24c8593fa/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Eating the alphabet : fruits and vegetables from A to Z",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/2f062471-0ce8-436f-b178-2b5006f1551a/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "American ABC, An",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/0e98bf12-47db-48d4-9ada-a2212581e793/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "C is for curious : an ABC of feelings",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/add22f94-2993-4d6a-89e0-03617381e9e4/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Bold carnivore : an alphabet of predators, A",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/c433dc3f-24da-4911-b31f-33cc05204a56/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Ultimate alphabet, The",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/d8860ad1-ac9d-49ae-8f8a-c1bd22851a53/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Look for the letters : a hide-and-seek alphabet",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/893ef04e-5ccf-4a08-a0a6-4e81ed0a5eaa/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Ashley Bryan's ABC of African-American poetry",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/04300df3-950f-47e7-b7b1-d5835d23305e/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Bruno Munari's ABC",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/55553f09-8eb3-42c0-8549-f423b4b91614/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Abc writing book : let's colour the picture and trace the letters",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/9e5d4f6b-a5f7-4786-82fa-252d70a3222b/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "City country ABC",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/542f0447-aa52-4284-b412-9b32a3831e09/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "ABC of cars and trucks",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/f849325c-a518-4899-8551-05a1374bf831/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Calypso alphabet, The",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/6633b9bd-15c3-4b70-936d-7bc436505c78/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Halloween A B C",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/357aefc5-17fc-4def-b237-6e6a3f1c9d44/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Blinky Bill's ABC book",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/218d1351-870d-460b-b643-4dd8685f71e2/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "African A.B.C.",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/5978bec2-4e4c-416d-947d-804b6efc401e/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "ABC's of forest fire prevention",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/c291eec5-c7c0-4c21-9707-ac43b80ab361/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Burma Alphabet in English & Burmese, The",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/04d907e5-054a-4366-a7e1-0578497b4b48/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Alphabet Rhymes",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/fad5d473-8933-4f71-9ff4-08a5558b2744/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Ant and Bee : an alphabetical story for tiny tots",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/51e6eeaf-80ba-42a5-b249-313135f7d3b3/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Mickey Mouse musical ABC story, A",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/8fd87f30-1620-4fc9-a35b-4d737f18e9ad/manifest",
+		"@type": "sc:Manifest",
+		"label": "Father Tuck's Noah's Ark ABC",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/5bff69c7-9a0d-4d29-a46e-e131d727e62d/manifest",
+		"@type": "sc:Manifest",
+		"label": "Mounted picture toy book : comprising, Nursery rhyme alphabet, Nursery numbers, The tiny tea party, The book of trades ; with thirty-two pages of illustrations, printed in colours",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/a32a4886-d97b-4c85-9cb6-dd7667a60f5d/manifest",
+		"@type": "sc:Manifest",
+		"label": "Green's alphabetical panorama",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/8efd56b0-8927-4c0f-8b9b-9458212e93f5/manifest",
+		"@type": "sc:Manifest",
+		"label": "Baby's jingly journey through Alphabet Land : a collection of musical rhymes for children",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/a9dacaee-275c-4252-a807-fc7dbb8a80ef/manifest",
+		"@type": "sc:Manifest",
+		"label": "Grandpapa Easy's New scripture historical alphabet",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/82cc883a-2834-4bbc-addb-016902501bc1/manifest",
+		"@type": "sc:Manifest",
+		"label": "The Noah's ark ABC",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/e45d254e-5cee-4db2-926f-8104058aecc0/manifest",
+		"@type": "sc:Manifest",
+		"label": "The soldiers and sailors ABC",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/7ffa4a30-f31e-4b4a-91e0-d4c7d847d462/manifest",
+		"@type": "sc:Manifest",
+		"label": "Moral Alphabet, A",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/94ce7edc-067e-468b-b33f-04c8af9f3f32/manifest",
+		"@type": "sc:Manifest",
+		"label": "The home alphabet book : with descriptive coloured engravings",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/1a3a10aa-4c04-4e40-b20d-837ef3ef5479/manifest",
+		"@type": "sc:Manifest",
+		"label": "Panoramic alphabet of peace",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/0df46f3f-057f-4dd8-8c9e-77868c9dd22c/manifest",
+		"@type": "sc:Manifest",
+		"label": "A, was an archer and Picture alphabet of nouns",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/a2dc9ff1-3e10-4203-98a7-648dddd6d11d/manifest",
+		"@type": "sc:Manifest",
+		"label": "Grandmamma Easy's Illuminated scriptural alphabet",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/bda185e0-03aa-4ed1-a007-99a5f1d99644/manifest",
+		"@type": "sc:Manifest",
+		"label": "An alphabet of celebrities",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/7b614489-5ef9-4f36-abe4-1aff08168a7a/manifest",
+		"@type": "sc:Manifest",
+		"label": "Illustrated alphabet of nouns",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/13b5edb1-8f08-4f06-810c-5fe75983d4ad/manifest",
+		"@type": "sc:Manifest",
+		"label": "The alphabet of musical bogeys",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/e8f208ba-b63c-4d5b-86f8-539edca03c4d/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Afro-Bets",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/dd5ead68-db55-48d3-babf-2d8ffe74e017/manifest?auth_token=6a036f9f3bef6d1c01b106348b18f7b8",
+		"@type": "sc:Manifest",
+		"label": "Handtalk",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/cea1950f-5b90-450f-8c78-c9ec58d83fc3/manifest",
+		"@type": "sc:Manifest",
+		"label": "Canadian child's ABC, A",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/49405059-5d6f-4593-a993-48ec455b6e38/manifest",
+		"@type": "sc:Manifest",
+		"label": "Modern ABC Book, The",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/39b85057-ef91-46bd-b905-91650df0d634/manifest",
+		"@type": "sc:Manifest",
+		"label": "An Alphabet for Boys & Girls",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/8b5c6e56-102a-4924-b237-7504bc053fe7/manifest",
+		"@type": "sc:Manifest",
+		"label": "Little Folks' ABC",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/a9bc102d-8383-441c-bd19-a6cbed86ffee/manifest",
+		"@type": "sc:Manifest",
+		"label": "Adventurous Billy & Betty, The",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/4197300b-3da1-4a8b-b2c0-430a3409a567/manifest",
+		"@type": "sc:Manifest",
+		"label": "ABC Jingles",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/c7f00ecc-702d-44a9-be67-d6871cb32a29/manifest",
+		"@type": "sc:Manifest",
+		"label": "An Alphabet of Fairy Tales",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/3000f3a8-2c1a-401b-a9c9-f2affa4044ec/manifest",
+		"@type": "sc:Manifest",
+		"label": "Bizarre Company, A",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/d0b55177-f8cd-40d5-a65d-09e82f04c0ec/manifest",
+		"@type": "sc:Manifest",
+		"label": "ABC and the Children of Many Nations",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/ff5ba25b-c256-400b-a7aa-374018166d9d/manifest",
+		"@type": "sc:Manifest",
+		"label": "ABC Health Cards",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/5773dffa-5487-498e-bfc6-dec328a71765/manifest",
+		"@type": "sc:Manifest",
+		"label": "Edward Lear's ABC",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/5fdfb0ed-85a0-4583-aa5a-e31211b343dc/manifest",
+		"@type": "sc:Manifest",
+		"label": "ABC Fun",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/e6de2af0-e2e7-48fa-9c41-5d7d730b40b6/manifest",
+		"@type": "sc:Manifest",
+		"label": "The Keith ABC for children",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/c5a261df-a095-4347-9a64-25bccb466725/manifest",
+		"@type": "sc:Manifest",
+		"label": "Goop Tales",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/82464aab-754f-4e4e-860d-b6af467dc852/manifest",
+		"@type": "sc:Manifest",
+		"label": "The world at home ABC : an alphabet of nations",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/4daafe7c-0a0a-4174-bab9-b1ac476ce14b/manifest",
+		"@type": "sc:Manifest",
+		"label": "Denslow's ABC Book",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/2195ab0e-3551-4f6f-98ef-8712ce897411/manifest",
+		"@type": "sc:Manifest",
+		"label": "An A. B. C. of every-day people, good, bad & indifferent",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/efce5884-d55c-4dcf-9faf-e296628f45b0/manifest",
+		"@type": "sc:Manifest",
+		"label": "Babes of the Empire from A to Z",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/e256727d-8064-454f-9b3b-1a1e86ac3de2/manifest",
+		"@type": "sc:Manifest",
+		"label": "Bandit Bunny Alphabet and other stories, The",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/ace38ed3-9a09-45c4-9825-ad1ba6ea0d9d/manifest",
+		"@type": "sc:Manifest",
+		"label": "Naval Alphabet, A",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/3f5b18c5-acfc-4a85-90c9-30c31f57225a/manifest",
+		"@type": "sc:Manifest",
+		"label": "Laugh and Learn ABC Book",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/b087c9ce-d5b9-4d24-aaaa-8f069e519bfa/manifest",
+		"@type": "sc:Manifest",
+		"label": "Adventures of ABC, The",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/3392c455-4f30-422c-8614-a174bb481395/manifest",
+		"@type": "sc:Manifest",
+		"label": "Bowden's ABC Book of India",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/1b8e0e19-1eca-4cff-9833-e2412b9edf67/manifest",
+		"@type": "sc:Manifest",
+		"label": "ABC: An alphabet written & pictured",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/3602b8f0-a136-4d0a-ba7b-36f8bdfd68f3/manifest",
+		"@type": "sc:Manifest",
+		"label": "The Bicycle ABC",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/a3797596-c25c-4019-bacb-0bd83f66fde4/manifest",
+		"@type": "sc:Manifest",
+		"label": "Apple Pie",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/a00a235d-2ed0-4609-aeb3-8f5e673aebbd/manifest",
+		"@type": "sc:Manifest",
+		"label": "Old Aunt Elspa's ABC",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/7fb25e3b-24fa-4a8f-87ee-5b2dd5d9275d/manifest",
+		"@type": "sc:Manifest",
+		"label": "Barnum and Jumbo's ABC",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/6b906299-c402-4eb9-8fcb-384262297a6c/manifest",
+		"@type": "sc:Manifest",
+		"label": "The Children's Moral Alphabet",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/81cf870f-5195-4874-90a4-bd26bd4f2359/manifest",
+		"@type": "sc:Manifest",
+		"label": "Grandmama Goodsoul's ABC of eatables",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/cbbea365-61d0-4489-b2aa-fdd6d16ca54b/manifest",
+		"@type": "sc:Manifest",
+		"label": "Mavor's Illustrated Primer",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/6fcff4b7-6d65-4fc3-879c-cf4ce90c9888/manifest",
+		"@type": "sc:Manifest",
+		"label": "An Alphabet Allegorical, Alliterative & Amusing. Appreciable at all Ages",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/3e338c7a-886c-4d41-8b0f-d88116105a9b/manifest",
+		"@type": "sc:Manifest",
+		"label": "Arthur's Book of Alphabets",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/32c76b9c-3195-4838-96d0-0a9449b9e52d/manifest",
+		"@type": "sc:Manifest",
+		"label": "The History of Apple Pie",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/587818e7-a710-43b6-9d5b-fde591ee303b/manifest",
+		"@type": "sc:Manifest",
+		"label": "Mother's Picture Alphabet",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/bcfb165f-535b-493b-a092-d2788750aaa5/manifest",
+		"@type": "sc:Manifest",
+		"label": "The Anti-Slavery Alphabet",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/0cb6e4d9-d275-483f-8ea8-a5b73600f2ea/manifest",
+		"@type": "sc:Manifest",
+		"label": "R. Cruikshank's comic alphabet",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/195c8f55-ba34-4a8b-9adb-e1371259589e/manifest",
+		"@type": "sc:Manifest",
+		"label": "Osbourne's pictorial alphabet",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/b8cfc54f-9527-4894-a240-1731a4d3a84d/manifest",
+		"@type": "sc:Manifest",
+		"label": "The Scripture Alphabet for children",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/90f03322-3f07-48c8-831d-77d5dd8e9c02/manifest",
+		"@type": "sc:Manifest",
+		"label": "Goldfish at School; or, The Alphabet of Frank the Fisherman",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/d04140dc-f812-4663-ba5e-1da02f2d3221/manifest",
+		"@type": "sc:Manifest",
+		"label": "Take your choice!, or, A peep at my playmates",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/9065ae2a-b1a4-4dde-b76d-4a044ffe7d33/manifest",
+		"@type": "sc:Manifest",
+		"label": "The Infant’s Posture Alphabet; or, Harlequin’s A, B, C",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/241f9075-6a5c-426b-8cd1-15ff8fca5ded/manifest",
+		"@type": "sc:Manifest",
+		"label": "The Teddy Bear ABC",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/508d4e91-25e6-48e1-9350-dfacc57e7079/manifest",
+		"@type": "sc:Manifest",
+		"label": "The Twins ABC",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/05bd4791-7719-48a1-b395-74db0bc11027/manifest",
+		"@type": "sc:Manifest",
+		"label": "The Union ABC",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/037a0b80-f138-4deb-9479-536d22c44019/manifest",
+		"@type": "sc:Manifest",
+		"label": "The Union Label Alphabet for Little and Big Children",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/9b7a1e51-77cb-4836-9459-b62f3d254982/manifest",
+		"@type": "sc:Manifest",
+		"label": "Tom Thumb's alphabet",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/1e61bfaa-df7a-4e7e-8831-259b0a5a56f9/manifest",
+		"@type": "sc:Manifest",
+		"label": "Tony Sarg's Alphabet",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/fbd612ec-c6e7-40c7-9fea-f02954bb89e7/manifest",
+		"@type": "sc:Manifest",
+		"label": "Wright’s Alphabet Book",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/7dc76e86-5906-4763-8df5-3e3863249562/manifest",
+		"@type": "sc:Manifest",
+		"label": "The alphabet of Goody Two Shoes",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/d0148a96-1b2a-4736-aa6c-06a069efd8f0/manifest",
+		"@type": "sc:Manifest",
+		"label": "Invited alphabet, or, Address of A to B, The",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}, {
+		"@id": "https://figgy.princeton.edu/concern/scanned_resources/34ca6c88-bd06-4175-959d-0ac16a32ef27/manifest",
+		"@type": "sc:Manifest",
+		"label": "child's alphabet, The : emblematically described and embellished by twenty-four pictures : brought into easy verse, for the tender capacities of young readers : the whole contrived to allure children into the love of learning",
+		"thumbnail": "https://stacks.stanford.edu/image/iiif/yf256bc4423/yf256bc4423_00_0001/full/100,/0/default.jpg"
+	}]
+}

@@ -1,0 +1,518 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://etcpanel.princeton.edu/IIIF",
+  "@type": "sc:Collection",
+  "label": "ART212_F2021",
+  "manifests": [
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66047/manifest",
+      "@type": "sc:Manifest",
+      "label": "Assignment #1 image: VanGogh"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66046/manifest",
+      "@type": "sc:Manifest",
+      "label": "Assignment #1 image: Turner"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66045/manifest",
+      "@type": "sc:Manifest",
+      "label": "Assignment #1 image: Thorvaldsen (plaster)"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66044/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66043/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66042/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66041/manifest",
+      "@type": "sc:Manifest",
+      "label": "Assignment #1 image: Degas"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66040/manifest",
+      "@type": "sc:Manifest",
+      "label": "Assignment #1 image: Daumier"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66039/manifest",
+      "@type": "sc:Manifest",
+      "label": "Assignment #1 image: Angrand"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/44/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/45/manifest",
+      "@type": "sc:Manifest",
+      "label": "Saying Grace/Grace"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/46/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/47/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/48/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/49/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/50/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/51/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/52/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/53/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/54/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/55/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/56/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/57/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/58/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/59/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/62/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/119/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/120/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/142/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/143/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/144/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/145/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/146/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/147/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/148/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/149/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/150/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/151/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/152/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/153/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/154/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/155/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/156/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/157/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/158/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/159/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/160/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/161/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/162/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/163/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/164/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/310/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/165/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/166/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/167/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/168/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/169/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/170/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/171/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/186/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/187/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/188/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/196/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/197/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/198/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/199/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/200/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/201/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/202/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/203/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/204/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/205/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/206/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/207/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/208/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/209/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/210/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/211/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/212/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/213/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/225/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/226/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/227/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/25222",
+      "@type": "sc:Manifest",
+      "label": "Paul Cézanne (French, 1839–1906), Mont Sainte-Victoire, ca. 1904–06. Oil on canvas, 83.8 x 65.1 cm; 102.5 x 86 x 6 cm (frame). The Henry and Rose Pearlman Foundation on loan since 1976 to the Princeton University Art Museum (L.1988.62.5)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/32604",
+      "@type": "sc:Manifest",
+      "label": "Jean-Baptiste-Camille Corot (1796–1875; born Paris, France; died Paris), Souvenir of Normandy, ca. 1870. Oil on canvas; 69.5 x 85 cm, 82.6 × 97.5 × 3.7 cm (frame). Bequest of Brooks Emeny, Class of 1924 (y1980-15)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/23641",
+      "@type": "sc:Manifest",
+      "label": "Théodore Rousseau (1812–1867; born Paris, France; died Barbizon), Landscape (Auvergne?), ca. 1830?. Oil on canvas; 27 x 34 cm, 42.4 × 51.3 × 4.7 cm (frame). Gift of Frank Jewett Mather Jr. (y1948-5)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/59761",
+      "@type": "sc:Manifest",
+      "label": "Franz Ludwig Catel (German, 1778–1856), Mount Vesuvius and the Bay of Naples, 1839. Oil on canvas, 96 x 135 cm; 120.6 × 158.7 × 8 cm (frame). Gift of Dr. A. Richard Turner, Class of 1955 and Graduate School Class of 1959, and Mrs. Turner (2010-112)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/41415",
+      "@type": "sc:Manifest",
+      "label": "Christoffer Wilhelm Eckersberg (Danish, 1783–1853), Ulysses Fleeing the Cave of Polyphemus, 1812. Oil on canvas, 80 x 63.5 cm; 96.5 × 79.1 × 6.3 cm (frame). Museum purchase, Fowler McCormick, Class of 1921, Fund (2002-348)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/3719",
+      "@type": "sc:Manifest",
+      "label": "Francisco José de Goya y Lucientes (Spanish, 1746–1828), Si amanece, nos vamos (When day breaks we will be off), 1799. Etching, burnished aquatint, and burin, 19.7 x 14.8 cm (plate); 29 x 19.1 cm (sheet). Gift of Frank Jewett Mather Jr.. (x1941-66 c)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/24513",
+      "@type": "sc:Manifest",
+      "label": "Jean-Léon Gérôme (French, 1824–1904), Napoleon in Egypt, 1867–68. Oil on wood panel, 35.8 x 25 cm; 48.3 x 38.4 x 4.1 cm (frame). Museum purchase, John Maclean Magie, Class of 1892, and Gertrude Magie Fund (y1953-78)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/21426",
+      "@type": "sc:Manifest",
+      "label": "Édouard Manet (French, 1832–1883), Young Woman in a Round Hat, ca. 1877–79. Oil on canvas; 54.6 × 45.1 cm, 82.2 × 73 × 8.3 cm (frame). The Henry and Rose Pearlman Foundation on loan since 1976 to the Princeton University Art Museum (L.1988.62.14)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/44868",
+      "@type": "sc:Manifest",
+      "label": "Edgar Degas (French, 1834–1917), After the Bath, Woman Drying Herself, 1890s. Oil on canvas, 75.5 x 86 cm; 94.5 x 105.2 cm (frame). The Henry and Rose Pearlman Foundation on loan since 1976 to the Princeton University Art Museum (L.1988.62.10)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/24455",
+      "@type": "sc:Manifest",
+      "label": "Auguste Rodin (French, 1840–1917), Danaid, 1880s, carved 1903/04. Marble, 23 cm; 40 x 26 cm (base). Bequest of Sam A. Lewisohn, Class of 1904 (y1954-123)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/23584",
+      "@type": "sc:Manifest",
+      "label": "Edgar Degas (French, 1834–1917), The Morning Bath, ca. 1886. Pastel on buff wove paper, 67 x 52.1 cm; 95 × 78.2 × 6 cm (frame). The Henry and Rose Pearlman Foundation on loan since 1976 to the Princeton University Art Museum (L.1988.62.9)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/57715",
+      "@type": "sc:Manifest",
+      "label": "Paul Gauguin (French, 1848–1903), Printed by Pola Gauguin (French, 1883–1961), Printed at Cabinet des Estampes, Bibliothèque Nationale de France, L'Univers est créé (The Universe is Created), 1893–94, printed in 1921. Woodcut printed in black and light gray ink on light gray Japanese paper, pasted onto light blue-gray mount, 20.3 × 35.3 cm (block); 26.8 x 43.2 cm (sheet). Museum purchase, Felton Gibbons Fund (2009-106)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/42477",
+      "@type": "sc:Manifest",
+      "label": "Paul Gauguin (French, 1848–1903), L'Univers est créé (The Universe is Created), 1893–94. Woodcut printed in black on thin rose-colored wove paper, 20.7 × 35.5 cm (block, sheet trimmed to block). Museum purchase, Laura P. Hall Memorial Fund (2005-116)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/5467",
+      "@type": "sc:Manifest",
+      "label": "Paul Gauguin (French, 1848–1903), Printed by Pola Gauguin (French, 1883–1961), Printed at Cabinet des Estampes, Bibliothèque Nationale de France, Auti te pape (Women by the River), 1893–94, printed 1921. Woodcut printed in black and light gray ink on light gray Japanese paper, 20.5 × 35.5 cm (block); 27.2 x 43.1 cm (sheet). Laura P. Hall Memorial Collection (x1946-235)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/31852",
+      "@type": "sc:Manifest",
+      "label": "Claude Monet (French, 1840–1926), Water Lilies and Japanese Bridge, 1899. Oil on canvas, 90.5 x 89.7 cm; 129.5 × 132.1 × 15.3 cm (frame). From the Collection of William Church Osborn, Class of 1883, trustee of Princeton University (1914-1951), president of the Metropolitan Museum of Art (1941-1947); given by his family (y1972-15)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/25222",
+      "@type": "sc:Manifest",
+      "label": "Paul Cézanne (French, 1839–1906), Mont Sainte-Victoire, ca. 1904–06. Oil on canvas, 83.8 x 65.1 cm; 102.5 x 86 x 6 cm (frame). The Henry and Rose Pearlman Foundation on loan since 1976 to the Princeton University Art Museum (L.1988.62.5)"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/65934/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/65936/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    }
+  ]
+}

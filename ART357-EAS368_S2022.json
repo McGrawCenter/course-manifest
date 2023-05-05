@@ -1,0 +1,728 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://etcpanel.princeton.edu/IIIF",
+  "@type": "sc:Collection",
+  "label": "ART357-EAS368_S2022",
+  "manifests": [
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66047/manifest",
+      "@type": "sc:Manifest",
+      "label": "Assignment #1 image: VanGogh"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66046/manifest",
+      "@type": "sc:Manifest",
+      "label": "Assignment #1 image: Turner"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66045/manifest",
+      "@type": "sc:Manifest",
+      "label": "Assignment #1 image: Thorvaldsen (plaster)"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66044/manifest",
+      "@type": "sc:Manifest",
+      "label": "Assignment #1 image: Thorvaldsen (marble)"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66043/manifest",
+      "@type": "sc:Manifest",
+      "label": "Assignment #1 image: Rusiñol"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66042/manifest",
+      "@type": "sc:Manifest",
+      "label": "Assignment #1 image: Menzel"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66041/manifest",
+      "@type": "sc:Manifest",
+      "label": "Assignment #1 image: Degas"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66040/manifest",
+      "@type": "sc:Manifest",
+      "label": "Assignment #1 image: Daumier"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66039/manifest",
+      "@type": "sc:Manifest",
+      "label": "Assignment #1 image: Angrand"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/44/manifest",
+      "@type": "sc:Manifest",
+      "label": "Pilgrimage to Cythera"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/45/manifest",
+      "@type": "sc:Manifest",
+      "label": "Saying Grace/Grace"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/46/manifest",
+      "@type": "sc:Manifest",
+      "label": "The Swing"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/47/manifest",
+      "@type": "sc:Manifest",
+      "label": "Perseus with the Head of Medusa"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/48/manifest",
+      "@type": "sc:Manifest",
+      "label": "Pauline Bonaparte as Venus Victrix (or Venus Victorious)"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/49/manifest",
+      "@type": "sc:Manifest",
+      "label": "The Oath of the Horatii"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/50/manifest",
+      "@type": "sc:Manifest",
+      "label": "Marie Antoinette and Her Children"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/51/manifest",
+      "@type": "sc:Manifest",
+      "label": "Oath of the Tennis Court (unfinished canvas)"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/52/manifest",
+      "@type": "sc:Manifest",
+      "label": "Death of Marat"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/53/manifest",
+      "@type": "sc:Manifest",
+      "label": "Self Portrait"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/54/manifest",
+      "@type": "sc:Manifest",
+      "label": "The Intervention of the Sabine Women"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/55/manifest",
+      "@type": "sc:Manifest",
+      "label": "Plate 43 from 'Los Caprichos': The sleep of reason produces monsters (El sueño de la razon produce monstruos)"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/56/manifest",
+      "@type": "sc:Manifest",
+      "label": "The Third of May, 1808"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/57/manifest",
+      "@type": "sc:Manifest",
+      "label": "Ambassadors Sent by Agamemnon to Urge Achilles to Fight"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/58/manifest",
+      "@type": "sc:Manifest",
+      "label": "La Grande Odalisque"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/59/manifest",
+      "@type": "sc:Manifest",
+      "label": "Louis-Francois Bertin"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/62/manifest",
+      "@type": "sc:Manifest",
+      "label": "Wanderer Above the Sea of Mist"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66/manifest",
+      "@type": "sc:Manifest",
+      "label": "Cross in the Mountains (The Tetschen Altarpiece)"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/119/manifest",
+      "@type": "sc:Manifest",
+      "label": "Raft of the Medusa"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/120/manifest",
+      "@type": "sc:Manifest",
+      "label": "Death of Sardanapalus"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/142/manifest",
+      "@type": "sc:Manifest",
+      "label": "Liberty Guiding the People"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/143/manifest",
+      "@type": "sc:Manifest",
+      "label": "Dedham Lock and Mill"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/144/manifest",
+      "@type": "sc:Manifest",
+      "label": "Rain, Steam, and Speed - The Great Western Railway"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/145/manifest",
+      "@type": "sc:Manifest",
+      "label": "Slave Ship (Slavers Throwing Overboard the Dead and Dying, Typhoon Coming On)"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/146/manifest",
+      "@type": "sc:Manifest",
+      "label": "Bridge at Mantes"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/147/manifest",
+      "@type": "sc:Manifest",
+      "label": "The Forest in Winter at Sunset"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/148/manifest",
+      "@type": "sc:Manifest",
+      "label": "Rue Transnonain, April 15, 1834"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/149/manifest",
+      "@type": "sc:Manifest",
+      "label": "The Horse Fair"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/150/manifest",
+      "@type": "sc:Manifest",
+      "label": "The Artist's Studio, a real allegory summing up seven years of my artistic and moral life"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/151/manifest",
+      "@type": "sc:Manifest",
+      "label": "The Stone Breakers"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/152/manifest",
+      "@type": "sc:Manifest",
+      "label": "Burial at Ornans"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/153/manifest",
+      "@type": "sc:Manifest",
+      "label": "Women of Algiers in Their Apartment"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/154/manifest",
+      "@type": "sc:Manifest",
+      "label": "The Lion Hunt"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/155/manifest",
+      "@type": "sc:Manifest",
+      "label": "The Prisoner"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/156/manifest",
+      "@type": "sc:Manifest",
+      "label": "The Snake Charmer"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/157/manifest",
+      "@type": "sc:Manifest",
+      "label": "Isabella"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/158/manifest",
+      "@type": "sc:Manifest",
+      "label": "Christ in the House of His Parents (‘The Carpenter’s Shop’)"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/159/manifest",
+      "@type": "sc:Manifest",
+      "label": "The Beguiling of Merlin"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/160/manifest",
+      "@type": "sc:Manifest",
+      "label": "Olympia"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/161/manifest",
+      "@type": "sc:Manifest",
+      "label": "The Birth of Venus"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/162/manifest",
+      "@type": "sc:Manifest",
+      "label": "Studio at Batignolles"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/163/manifest",
+      "@type": "sc:Manifest",
+      "label": "Luncheon on the Grass"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/164/manifest",
+      "@type": "sc:Manifest",
+      "label": "The Balcony"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/310/manifest",
+      "@type": "sc:Manifest",
+      "label": "The Mother and Sister of the Artist"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/165/manifest",
+      "@type": "sc:Manifest",
+      "label": "The Railway (Gare Saint-Lazare)"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/166/manifest",
+      "@type": "sc:Manifest",
+      "label": "La gare Saint-Lazare"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/167/manifest",
+      "@type": "sc:Manifest",
+      "label": "Women in the Garden"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/168/manifest",
+      "@type": "sc:Manifest",
+      "label": "Impression, Sunrise"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/169/manifest",
+      "@type": "sc:Manifest",
+      "label": "Rouen Cathedral: The Portal in the Sun"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/170/manifest",
+      "@type": "sc:Manifest",
+      "label": "The Dance Class"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/171/manifest",
+      "@type": "sc:Manifest",
+      "label": "The Painter Henri Michel-Levy"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/186/manifest",
+      "@type": "sc:Manifest",
+      "label": "After the Bath, Woman Drying Herself"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/187/manifest",
+      "@type": "sc:Manifest",
+      "label": "Evening Impression of the Boulevard"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/188/manifest",
+      "@type": "sc:Manifest",
+      "label": "Little Dancer Fourteen Years Old"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/196/manifest",
+      "@type": "sc:Manifest",
+      "label": "Torso"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/197/manifest",
+      "@type": "sc:Manifest",
+      "label": "Age of Bronze"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/198/manifest",
+      "@type": "sc:Manifest",
+      "label": "Iris, Messenger of the Gods"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/199/manifest",
+      "@type": "sc:Manifest",
+      "label": "The Gates of Hell"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/200/manifest",
+      "@type": "sc:Manifest",
+      "label": "Sunday Afternoon at La Grande Jatte"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/201/manifest",
+      "@type": "sc:Manifest",
+      "label": "The Great Bathers"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/202/manifest",
+      "@type": "sc:Manifest",
+      "label": "Bathers at Asnières"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/203/manifest",
+      "@type": "sc:Manifest",
+      "label": "The Boating Party"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/204/manifest",
+      "@type": "sc:Manifest",
+      "label": "Chahut"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/205/manifest",
+      "@type": "sc:Manifest",
+      "label": "Self-Portrait"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/206/manifest",
+      "@type": "sc:Manifest",
+      "label": "Van Gogh painting Sunflowers"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/207/manifest",
+      "@type": "sc:Manifest",
+      "label": "Dr. Paul Gachet"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/208/manifest",
+      "@type": "sc:Manifest",
+      "label": "The Night Café"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/209/manifest",
+      "@type": "sc:Manifest",
+      "label": "Vision of the Sermon (Jacob Wrestling with the Angel)"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/210/manifest",
+      "@type": "sc:Manifest",
+      "label": "Ia Orana Maria (Hail Mary)"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/211/manifest",
+      "@type": "sc:Manifest",
+      "label": "The Luncheon: Monet's garden at Argenteuil"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/212/manifest",
+      "@type": "sc:Manifest",
+      "label": "Artist Painting"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/213/manifest",
+      "@type": "sc:Manifest",
+      "label": "In the Loge"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/225/manifest",
+      "@type": "sc:Manifest",
+      "label": "House of the Hanged Man"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/226/manifest",
+      "@type": "sc:Manifest",
+      "label": "House in Provence"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/227/manifest",
+      "@type": "sc:Manifest",
+      "label": "Still Life with Plaster Cupid"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/25222",
+      "@type": "sc:Manifest",
+      "label": "Paul Cézanne (French, 1839–1906), Mont Sainte-Victoire, ca. 1904–06. Oil on canvas, 83.8 x 65.1 cm; 102.5 x 86 x 6 cm (frame). The Henry and Rose Pearlman Foundation on loan since 1976 to the Princeton University Art Museum (L.1988.62.5)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/32604",
+      "@type": "sc:Manifest",
+      "label": "Jean-Baptiste-Camille Corot (1796–1875; born Paris, France; died Paris), Souvenir of Normandy, ca. 1870. Oil on canvas; 69.5 x 85 cm, 82.6 × 97.5 × 3.7 cm (frame). Bequest of Brooks Emeny, Class of 1924 (y1980-15)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/23641",
+      "@type": "sc:Manifest",
+      "label": "Théodore Rousseau (1812–1867; born Paris, France; died Barbizon), Landscape (Auvergne?), ca. 1830?. Oil on canvas; 27 x 34 cm, 42.4 × 51.3 × 4.7 cm (frame). Gift of Frank Jewett Mather Jr. (y1948-5)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/59761",
+      "@type": "sc:Manifest",
+      "label": "Franz Ludwig Catel (German, 1778–1856), Mount Vesuvius and the Bay of Naples, 1839. Oil on canvas, 96 x 135 cm; 120.6 × 158.7 × 8 cm (frame). Gift of Dr. A. Richard Turner, Class of 1955 and Graduate School Class of 1959, and Mrs. Turner (2010-112)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/41415",
+      "@type": "sc:Manifest",
+      "label": "Christoffer Wilhelm Eckersberg (Danish, 1783–1853), Ulysses Fleeing the Cave of Polyphemus, 1812. Oil on canvas, 80 x 63.5 cm; 96.5 × 79.1 × 6.3 cm (frame). Museum purchase, Fowler McCormick, Class of 1921, Fund (2002-348)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/3719",
+      "@type": "sc:Manifest",
+      "label": "Francisco José de Goya y Lucientes (Spanish, 1746–1828), Si amanece, nos vamos (When day breaks we will be off), 1799. Etching, burnished aquatint, and burin, 19.7 x 14.8 cm (plate); 29 x 19.1 cm (sheet). Gift of Frank Jewett Mather Jr.. (x1941-66 c)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/24513",
+      "@type": "sc:Manifest",
+      "label": "Jean-Léon Gérôme (French, 1824–1904), Napoleon in Egypt, 1867–68. Oil on wood panel, 35.8 x 25 cm; 48.3 x 38.4 x 4.1 cm (frame). Museum purchase, John Maclean Magie, Class of 1892, and Gertrude Magie Fund (y1953-78)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/21426",
+      "@type": "sc:Manifest",
+      "label": "Édouard Manet (French, 1832–1883), Young Woman in a Round Hat, ca. 1877–79. Oil on canvas; 54.6 × 45.1 cm, 82.2 × 73 × 8.3 cm (frame). The Henry and Rose Pearlman Foundation on loan since 1976 to the Princeton University Art Museum (L.1988.62.14)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/44868",
+      "@type": "sc:Manifest",
+      "label": "Edgar Degas (French, 1834–1917), After the Bath, Woman Drying Herself, 1890s. Oil on canvas, 75.5 x 86 cm; 94.5 x 105.2 cm (frame). The Henry and Rose Pearlman Foundation on loan since 1976 to the Princeton University Art Museum (L.1988.62.10)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/24455",
+      "@type": "sc:Manifest",
+      "label": "Auguste Rodin (French, 1840–1917), Danaid, 1880s, carved 1903/04. Marble, 23 cm; 40 x 26 cm (base). Bequest of Sam A. Lewisohn, Class of 1904 (y1954-123)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/23584",
+      "@type": "sc:Manifest",
+      "label": "Edgar Degas (French, 1834–1917), The Morning Bath, ca. 1886. Pastel on buff wove paper, 67 x 52.1 cm; 95 × 78.2 × 6 cm (frame). The Henry and Rose Pearlman Foundation on loan since 1976 to the Princeton University Art Museum (L.1988.62.9)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/57715",
+      "@type": "sc:Manifest",
+      "label": "Paul Gauguin (French, 1848–1903), Printed by Pola Gauguin (French, 1883–1961), Printed at Cabinet des Estampes, Bibliothèque Nationale de France, L'Univers est créé (The Universe is Created), 1893–94, printed in 1921. Woodcut printed in black and light gray ink on light gray Japanese paper, pasted onto light blue-gray mount, 20.3 × 35.3 cm (block); 26.8 x 43.2 cm (sheet). Museum purchase, Felton Gibbons Fund (2009-106)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/42477",
+      "@type": "sc:Manifest",
+      "label": "Paul Gauguin (French, 1848–1903), L'Univers est créé (The Universe is Created), 1893–94. Woodcut printed in black on thin rose-colored wove paper, 20.7 × 35.5 cm (block, sheet trimmed to block). Museum purchase, Laura P. Hall Memorial Fund (2005-116)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/5467",
+      "@type": "sc:Manifest",
+      "label": "Paul Gauguin (French, 1848–1903), Printed by Pola Gauguin (French, 1883–1961), Printed at Cabinet des Estampes, Bibliothèque Nationale de France, Auti te pape (Women by the River), 1893–94, printed 1921. Woodcut printed in black and light gray ink on light gray Japanese paper, 20.5 × 35.5 cm (block); 27.2 x 43.1 cm (sheet). Laura P. Hall Memorial Collection (x1946-235)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/31852",
+      "@type": "sc:Manifest",
+      "label": "Claude Monet (French, 1840–1926), Water Lilies and Japanese Bridge, 1899. Oil on canvas, 90.5 x 89.7 cm; 129.5 × 132.1 × 15.3 cm (frame). From the Collection of William Church Osborn, Class of 1883, trustee of Princeton University (1914-1951), president of the Metropolitan Museum of Art (1941-1947); given by his family (y1972-15)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/25222",
+      "@type": "sc:Manifest",
+      "label": "Paul Cézanne (French, 1839–1906), Mont Sainte-Victoire, ca. 1904–06. Oil on canvas, 83.8 x 65.1 cm; 102.5 x 86 x 6 cm (frame). The Henry and Rose Pearlman Foundation on loan since 1976 to the Princeton University Art Museum (L.1988.62.5)"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/65934/manifest",
+      "@type": "sc:Manifest",
+      "label": "Studio Wall"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/65936/manifest",
+      "@type": "sc:Manifest",
+      "label": "Mother"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66670/manifest",
+      "@type": "sc:Manifest",
+      "label": "Map"
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66672/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66698/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66676/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66678/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66680/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66682/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66684/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66686/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66688/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66690/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66692/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66694/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66696/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66712/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66714/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66716/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66718/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66720/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66723/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66726/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66728/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66730/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66732/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66734/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66737/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66739/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://vrc.princeton.edu/course_images/iiif/66741/manifest",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://emuseum.nich.go.jp/iiifapi/100307000/manifest.json",
+      "@type": "sc:Manifest",
+      "label": ""
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/125451",
+      "@type": "sc:Manifest",
+      "label": "Wang Mansheng 王满晟 (Chinese, born 1962), Silence Series 08-1, 2008. Sheet; ink and color on paper, 76.2 × 56.2 cm. Gift of the Department of Art and Archaeology, Princeton University, in honor of Professor Jerome Silbergeld on the occasion of his retirement\r\n\r\n (2016-23)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/33091",
+      "@type": "sc:Manifest",
+      "label": "Chinese, Western Wei dynasty (535–557), Celestial Maiden (apsara), mid–6th century A.D. Terracotta with pigment, 35 x 12.6 x 9 cm. Museum purchase, Fowler McCormick, Class of 1921, Fund (y1986-108)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/32949",
+      "@type": "sc:Manifest",
+      "label": "Chinese, Western Wei dynasty (535–557), Celestial Maiden (apsara), holding a lotus blossom, mid-6th century. Terracotta with pigment, 21.3 x 15.6 x 8 cm. Museum purchase, Fowler McCormick, Class of 1921, Fund (y1986-109)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/33078",
+      "@type": "sc:Manifest",
+      "label": "Chinese, Tang dynasty (618–907), Face of Ananda, an attendant of the Buddha, 700–750. Terracotta with pigment, 13 x 11 x 6.5 cm. Museum purchase, Fowler McCormick, Class of 1921, Fund (y1986-110)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/61045",
+      "@type": "sc:Manifest",
+      "label": "Chinese, Modern period (1912–present), Xie Chengshui 謝成水 (born 1950), Guanyin: Copy of wall painting from Cave 320 of the Mogao Caves at Dunhuang, ca. 1990. Ink and color on two sheets of paper, 221.1 x 86.6 cm. [Gift of Professor Roderick Whitfield, Graduate School Class of 1965, in honor of James and Lucy Lo] (2011-54)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/94059",
+      "@type": "sc:Manifest",
+      "label": "Chinese, Modern period (1912–present), James C. Lo Workshop, copy after wall painting, Northern Wei dynasty (386–535), Buddhist Tiger Story, 1958–63. Sheet; ink and color on paper, 78.5 × 112 cm; 84.1 × 117.2 × 5.1 cm (frame). Gift of Lucy L. Lo (2013-107)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/86027",
+      "@type": "sc:Manifest",
+      "label": "Chinese, Modern period (1912–present), James C. Lo Workshop, copy after wall painting, High Tang dynasty (704–781), Kasyapa (迦叶尊者), 1958–63. Sheet; ink and color on paper, 78.4 x 55.2 cm; 84.5 × 60.6 × 5.1 cm (frame). Gift of Lucy L. Lo (2012-136)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/94057",
+      "@type": "sc:Manifest",
+      "label": "Chinese, Modern period (1912–present), James C. Lo Workshop, copy after wall painting, Late Tang dynasty (848–907), Procession of Zhang Yichao, 1958–63. Sheet; ink and color on paper, 95.4 × 698.9 cm. Gift of Lucy L. Lo (2013-105)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/94056",
+      "@type": "sc:Manifest",
+      "label": "Chinese, Modern period (1912–present), James C. Lo Workshop, copy after wall painting, Late Tang dynasty (848–907), Procession of Lady Song, 1958–63. Sheet; ink and color on paper, 95.3 × 711.8 cm. Gift of Lucy L. Lo (2013-104)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/94062",
+      "@type": "sc:Manifest",
+      "label": "Chinese, Modern period (1912–present), James C. Lo Workshop, copy after wall painting, Western Wei dynasty (535–557), Animals, 1958–63. Sheet; ink and color on paper; 64 × 96.4 cm, 69.5 × 102.6 × 5.1 cm (frame). Gift of Lucy L. Lo (2013-110)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/94058",
+      "@type": "sc:Manifest",
+      "label": "Chinese, Modern period (1912–present), James C. Lo Workshop, copy after wall painting, High Tang dynasty (704–781), Building, 1958–63. Sheet; ink and color on paper, 149.5 × 96.3 cm; 155.3 × 103.2 × 5.1 cm (frame). Gift of Lucy L. Lo (2013-106)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/86024",
+      "@type": "sc:Manifest",
+      "label": "Chinese, Modern period (1912–present), James C. Lo Workshop, copy after wall painting, Western Wei dynasty (535–557), Celestial musician with flute (長笛), 1958–63. Sheet; ink and color on paper, 69.2 x 48.5 cm; 74.6 × 53.7 × 5.1 cm (frame). Gift of Lucy L. Lo (2012-133)"
+    },
+    {
+      "@id": "https://data.artmuseum.princeton.edu/iiif/objects/86028",
+      "@type": "sc:Manifest",
+      "label": "Chinese, Modern period (1912–present), James C. Lo Workshop, copy after wall painting, High Tang dynasty (704–781), Bodhisattva holding peaches (奉桃大士), 1958–63. Sheet; ink and color on paper, 142.4 x 51.3 cm; 148.3 × 56.2 × 5.1 cm (frame). Gift of Lucy L. Lo (2012-137)"
+    }
+  ]
+}
