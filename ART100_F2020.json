@@ -93,11 +93,6 @@
       "@id": "https://vrc.princeton.edu/course_images/iiif/66288/manifest",
       "@type": "sc:Manifest",
       "label": "ART100 Modernism and Tradition in Africa"
-    },
-    {
-      "@id": "https://vrc.princeton.edu/course_images/iiif/66445/manifest",
-      "@type": "sc:Manifest",
-      "label": "ART100 Precept Images"
     }
   ]
 }
